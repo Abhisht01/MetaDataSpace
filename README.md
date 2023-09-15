@@ -21,7 +21,7 @@ So. we hope to create the world’s largest valuable metadata marketplace for we
 
 ## How we built it
 
-* Filecoin.  We store all metadata material in Filecoin  by using "web3.storage".
+* Filecoin.  We store all metadata in Filecoin  by using "web3.storage".
 * Solidity.   We implement the  smart contracts with Solidity.
 * MetaMask.  We  implement the decentralized applications  with MetaMask.
 * React.  We developed the front end using React。
